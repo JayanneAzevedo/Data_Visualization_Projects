@@ -1,2 +1,4 @@
 # Dashboards-PowerBI
-Dashboards created by using Microsoft Power BI with different datasets.
+
+These dashboards were created on Power BI and the datasets are attached in this repository.
+
